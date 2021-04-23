@@ -1,2 +1,2 @@
 # -study-_2D_Brushes
-Brushes for PSD
+Brushes and Tool-presets for PSD
